@@ -25,45 +25,89 @@
       "id": "MTH-JACK",
       "name": "Jack",
       "source_facts": "8세 반. Annie의 오빠. 안경을 쓰며 책과 관찰을 좋아한다.",
-      "design": "4권 시트와 같은 갈색 머리·얼굴, 얇은 원형 안경, 빨간 긴팔·청바지. 기본 갈색 운동화. Annie보다 조금 크다."
+      "design": "4권 시트와 같은 갈색 머리·얼굴, 얇은 원형 안경, 빨간 긴팔·청바지. 기본 갈색 운동화. Annie보다 조금 크다.",
+      "visual_sheet": "assets/mth03-children-sheet-v1.png"
     },
     {
       "id": "MTH-ANNIE",
       "name": "Annie",
       "source_facts": "7세. Jack의 여동생. 적극적으로 탐험한다.",
-      "design": "4권 시트와 같은 금발 단발·얼굴, 보라색 티셔츠·청반바지·기본 빨간 운동화. Jack보다 작다."
+      "design": "4권 시트와 같은 금발 단발·얼굴, 보라색 티셔츠·청반바지·기본 빨간 운동화. Jack보다 작다.",
+      "visual_sheet": "assets/mth03-children-sheet-v1.png"
     },
     {
       "id": "MTH03-CAT",
       "name": "Black Cat",
       "source_facts": "검은 털·밝은 노란 눈·넓은 금목걸이. 책 속 그림·실제 등장·화면 밖 울음·퇴장을 구분한다.",
-      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+      "design": "Dedicated visual sheet v1; see visual_sheets rules.",
+      "visual_sheet": "assets/mth03-cat-sheet-v1.png"
     },
     {
       "id": "MTH03-HUTEPI",
       "name": "Queen Hutepi",
       "source_facts": "유령은 검은 머리·꽃·주름 많은 흰 드레스·금장신구·공기 같은 몸. 미라는 같은 인물의 별도 상태이다.",
-      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+      "design": "Dedicated visual sheet v1; see visual_sheets rules.",
+      "visual_sheet": "assets/mth03-hutepi-sheet-v1.png"
     },
     {
       "id": "MTH03-PROCESSION",
       "name": "Funeral Procession",
       "source_facts": "가족·하인·조문객과 금색 관. 썰매를 끄는 뿔소 네 마리를 확인한다.",
-      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+      "design": "Dedicated visual sheet v1; see visual_sheets rules.",
+      "visual_sheet": "assets/mth03-procession-sheet-v1.png"
     },
     {
       "id": "MTH03-WHITE-FIGURE",
       "name": "White Figure",
       "source_facts": "정체와 얼굴이 밝혀지지 않은 흰 형체. 추측을 확정된 정체로 그리지 않는다.",
-      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+      "design": "Dedicated visual sheet v1; see visual_sheets rules.",
+      "visual_sheet": "assets/mth03-procession-sheet-v1.png"
     },
     {
       "id": "MTH-MOM",
       "name": "Mom",
       "source_facts": "목소리만 들리는 순간과 집의 부엌 장면을 구분한다. 세부 외형은 공통 제작 선택으로 고정한다.",
-      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+      "design": "Dedicated visual sheet v1; see visual_sheets rules.",
+      "visual_sheet": "assets/mth03-mom-sheet-v1.png"
     }
   ],
-  "status": "text_rules_ready_book_specific_visual_sheets_pending",
-  "presence_rule": "캐스트 목록·참조 시트는 장면 출연 허가가 아니다. 원문상 현재 인물만 표시한다."
+  "status": "book_specific_visual_sheets_ready_v1",
+  "presence_rule": "캐스트 목록·참조 시트는 장면 출연 허가가 아니다. 원문상 현재 인물만 표시한다.",
+  "visual_sheets": [
+    {
+      "id": "children",
+      "title": "Jack & Annie",
+      "asset": "assets/mth03-children-sheet-v1.png",
+      "rules": "Jack은 갈색 머리·얇은 원형 안경·빨간 긴팔·청바지·갈색 운동화, Annie는 금발 단발·보라 티셔츠·청반바지·빨간 운동화로 고정합니다. 얼굴과 상대 키는 4권 시트를 기준으로 합니다. 색상과 복장 조합은 제작용 설정입니다. 가방·노트는 해당 장면의 소유와 행동을 따릅니다. Annie의 노트 포즈는 형태 참고이며 모든 장면에 노트를 추가하지 않습니다.",
+      "spoiler": false
+    },
+    {
+      "id": "cat",
+      "title": "Black Cat",
+      "asset": "assets/mth03-cat-sheet-v1.png",
+      "rules": "검은 털, 노란 눈, 넓은 금목걸이를 유지합니다. 책 속 그림, 실제 고양이, 화면 밖 울음소리를 구분합니다. 소리만 들리는 문장에 고양이를 임의로 그리지 않습니다. 변신이나 정체를 미리 드러내지 않습니다.",
+      "spoiler": false
+    },
+    {
+      "id": "hutepi",
+      "title": "Queen Hutepi · 유령과 미라",
+      "asset": "assets/mth03-hutepi-sheet-v1.png",
+      "rules": "검은 머리와 꽃, 주름 많은 흰 드레스, 금장신구를 유령 상태의 기준으로 삼습니다. 유령과 관 속 미라는 같은 인물의 서로 다른 상태입니다. 유령은 4장 말미와 5–6장, 7장 계단·문 장면에 맞추고, 미라는 8장 관 장면에만 사용합니다. 떠나는 배에 유령을 임의로 추가하지 않습니다. Morgan과 혼동하지 않습니다.",
+      "spoiler": true
+    },
+    {
+      "id": "procession",
+      "title": "장례 행렬 & 흰 형체",
+      "asset": "assets/mth03-procession-sheet-v1.png",
+      "rules": "가족·하인·조문객, 금빛 관과 나무 썰매, 뿔 달린 소 네 마리를 유지합니다. 행렬 인물의 세부 얼굴은 제작용 설정입니다. 3장 말미와 4장 도입의 흰 형체는 얼굴과 정체를 확정하지 않습니다. 시트의 천 형태는 시각화 선택입니다.",
+      "spoiler": true
+    },
+    {
+      "id": "mom",
+      "title": "Mom",
+      "asset": "assets/mth03-mom-sheet-v1.png",
+      "rules": "목소리만 들리는 대목과 10장 부엌에서 실제로 등장하는 대목을 구분합니다. 밤색 단발·크림 블라우스·세이지 카디건·남색 바지·갈색 신발은 1권과 공유하는 제작용 외형 설정입니다. 이집트 모험 장면에 배치하지 않습니다.",
+      "spoiler": true
+    }
+  ]
 }
