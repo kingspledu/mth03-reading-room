@@ -1,0 +1,11 @@
+{
+  "book": 3,
+  "chapter": 1,
+  "references_read": ["public/characters.html", "public/assets/mth03-children-sheet-v1.png", "public/assets/mth03-cat-sheet-v1.png", "public/assets/mth03-procession-sheet-v1.png", "source.txt Chapter 1"],
+  "batches": [{"start":17,"count":16},{"start":33,"count":11}],
+  "identity": "Book 4 faces, proportions and warm clean line style; Book 3 sheet clothing. Jack round glasses, red long sleeves, blue jeans; Annie blonde bob, lavender tee, denim shorts, red shoes.",
+  "state": "Jack backpack on floor after entering. Egypt book and green silk bookmark belong in Jack hands; Pennsylvania book in Annie hands after scene 33. No actual historical visitors or dinosaurs: memories stay in book imagery.",
+  "presence": "Procession only printed picture in this chapter, with exactly four horned oxen. Cat first actually visible in scene 36, sleek black, yellow eyes, wide gold collar. No cat visibly added for offscreen meows 35 or 43. No Hutepi, mummy, Mom, or white figure.",
+  "location": "Same wooden oak treehouse in Pennsylvania late morning, forest visible. Motion during travel; bright sunlight arrives at 43, palm panorama reserved for chapter 2.",
+  "crop_review": "Detect continuous white gutters separately for each row. Inspect red-box overlay and all output tiles as contact sheet. Stop on uncertain gutter or clipped anatomy. Store original and audit boxes. Second batch uses only first 11 panels; unused panels never count as completed scenes."
+}
