@@ -1,0 +1,732 @@
+[
+  {
+    "source": "source_images/grid-0044.png",
+    "vertical_gutters": [],
+    "vertical_gutters_by_row": [
+      [
+        [
+          312,
+          325
+        ],
+        [
+          624,
+          638
+        ],
+        [
+          936,
+          950
+        ]
+      ],
+      [
+        [
+          312,
+          326
+        ],
+        [
+          624,
+          638
+        ],
+        [
+          936,
+          950
+        ]
+      ],
+      [
+        [
+          313,
+          326
+        ],
+        [
+          624,
+          638
+        ],
+        [
+          936,
+          949
+        ]
+      ],
+      [
+        [
+          312,
+          327
+        ],
+        [
+          625,
+          639
+        ],
+        [
+          936,
+          950
+        ]
+      ]
+    ],
+    "horizontal_gutters": [
+      [
+        309,
+        321
+      ],
+      [
+        618,
+        629
+      ],
+      [
+        927,
+        938
+      ]
+    ],
+    "tiles": [
+      {
+        "target": "assets/mth03-scene-0044.webp",
+        "box": [
+          12,
+          9,
+          310,
+          307
+        ],
+        "size": [
+          298,
+          298
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0045.webp",
+        "box": [
+          327,
+          8,
+          622,
+          307
+        ],
+        "size": [
+          295,
+          299
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0046.webp",
+        "box": [
+          640,
+          8,
+          934,
+          307
+        ],
+        "size": [
+          294,
+          299
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0047.webp",
+        "box": [
+          952,
+          8,
+          1252,
+          307
+        ],
+        "size": [
+          300,
+          299
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0048.webp",
+        "box": [
+          11,
+          323,
+          310,
+          616
+        ],
+        "size": [
+          299,
+          293
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0049.webp",
+        "box": [
+          328,
+          323,
+          622,
+          616
+        ],
+        "size": [
+          294,
+          293
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0050.webp",
+        "box": [
+          640,
+          323,
+          934,
+          616
+        ],
+        "size": [
+          294,
+          293
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0051.webp",
+        "box": [
+          952,
+          323,
+          1248,
+          616
+        ],
+        "size": [
+          296,
+          293
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0052.webp",
+        "box": [
+          13,
+          631,
+          311,
+          925
+        ],
+        "size": [
+          298,
+          294
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0053.webp",
+        "box": [
+          328,
+          631,
+          622,
+          925
+        ],
+        "size": [
+          294,
+          294
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0054.webp",
+        "box": [
+          640,
+          631,
+          934,
+          925
+        ],
+        "size": [
+          294,
+          294
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0055.webp",
+        "box": [
+          951,
+          631,
+          1249,
+          925
+        ],
+        "size": [
+          298,
+          294
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0056.webp",
+        "box": [
+          11,
+          940,
+          310,
+          1240
+        ],
+        "size": [
+          299,
+          300
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0057.webp",
+        "box": [
+          329,
+          940,
+          623,
+          1240
+        ],
+        "size": [
+          294,
+          300
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0058.webp",
+        "box": [
+          641,
+          940,
+          934,
+          1240
+        ],
+        "size": [
+          293,
+          300
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0059.webp",
+        "box": [
+          952,
+          940,
+          1251,
+          1238
+        ],
+        "size": [
+          299,
+          298
+        ]
+      }
+    ],
+    "native_size": [
+      1261,
+      1247
+    ],
+    "visual_review": "Source, detected gutter overlay and all crop tiles visually checked. No unused filler integrated."
+  },
+  {
+    "source": "source_images/grid-0060.png",
+    "vertical_gutters": [],
+    "vertical_gutters_by_row": [
+      [
+        [
+          306,
+          318
+        ],
+        [
+          618,
+          629
+        ],
+        [
+          928,
+          939
+        ]
+      ],
+      [
+        [
+          307,
+          318
+        ],
+        [
+          618,
+          629
+        ],
+        [
+          928,
+          940
+        ]
+      ],
+      [
+        [
+          306,
+          318
+        ],
+        [
+          618,
+          629
+        ],
+        [
+          929,
+          940
+        ]
+      ],
+      [
+        [
+          306,
+          319
+        ],
+        [
+          617,
+          629
+        ],
+        [
+          928,
+          939
+        ]
+      ]
+    ],
+    "horizontal_gutters": [
+      [
+        315,
+        326
+      ],
+      [
+        632,
+        641
+      ],
+      [
+        936,
+        946
+      ]
+    ],
+    "tiles": [
+      {
+        "target": "assets/mth03-scene-0060.webp",
+        "box": [
+          6,
+          7,
+          304,
+          313
+        ],
+        "size": [
+          298,
+          306
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0061.webp",
+        "box": [
+          320,
+          7,
+          616,
+          313
+        ],
+        "size": [
+          296,
+          306
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0062.webp",
+        "box": [
+          631,
+          5,
+          926,
+          313
+        ],
+        "size": [
+          295,
+          308
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0063.webp",
+        "box": [
+          941,
+          5,
+          1239,
+          313
+        ],
+        "size": [
+          298,
+          308
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0064.webp",
+        "box": [
+          6,
+          328,
+          305,
+          630
+        ],
+        "size": [
+          299,
+          302
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0065.webp",
+        "box": [
+          320,
+          328,
+          616,
+          630
+        ],
+        "size": [
+          296,
+          302
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0066.webp",
+        "box": [
+          631,
+          328,
+          926,
+          630
+        ],
+        "size": [
+          295,
+          302
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0067.webp",
+        "box": [
+          942,
+          328,
+          1238,
+          630
+        ],
+        "size": [
+          296,
+          302
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0068.webp",
+        "box": [
+          6,
+          643,
+          304,
+          934
+        ],
+        "size": [
+          298,
+          291
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0069.webp",
+        "box": [
+          320,
+          643,
+          616,
+          934
+        ],
+        "size": [
+          296,
+          291
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0070.webp",
+        "box": [
+          631,
+          643,
+          927,
+          934
+        ],
+        "size": [
+          296,
+          291
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0071.webp",
+        "box": [
+          942,
+          643,
+          1238,
+          934
+        ],
+        "size": [
+          296,
+          291
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0072.webp",
+        "box": [
+          6,
+          948,
+          304,
+          1256
+        ],
+        "size": [
+          298,
+          308
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0073.webp",
+        "box": [
+          321,
+          948,
+          615,
+          1256
+        ],
+        "size": [
+          294,
+          308
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0074.webp",
+        "box": [
+          631,
+          948,
+          926,
+          1256
+        ],
+        "size": [
+          295,
+          308
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0075.webp",
+        "box": [
+          941,
+          948,
+          1238,
+          1256
+        ],
+        "size": [
+          297,
+          308
+        ]
+      }
+    ],
+    "native_size": [
+      1246,
+      1263
+    ],
+    "visual_review": "Source, detected gutter overlay and all crop tiles visually checked. No unused filler integrated."
+  },
+  {
+    "source": "source_images/grid-0076.png",
+    "vertical_gutters": [],
+    "vertical_gutters_by_row": [
+      [
+        [
+          310,
+          319
+        ],
+        [
+          623,
+          631
+        ],
+        [
+          936,
+          945
+        ]
+      ],
+      [
+        [
+          310,
+          319
+        ],
+        [
+          623,
+          631
+        ],
+        [
+          936,
+          945
+        ]
+      ],
+      [
+        [
+          310,
+          319
+        ],
+        [
+          623,
+          631
+        ],
+        [
+          936,
+          945
+        ]
+      ],
+      [
+        [
+          310,
+          319
+        ],
+        [
+          623,
+          631
+        ],
+        [
+          936,
+          945
+        ]
+      ]
+    ],
+    "horizontal_gutters": [
+      [
+        334,
+        342
+      ],
+      [
+        626,
+        634
+      ],
+      [
+        924,
+        932
+      ]
+    ],
+    "tiles": [
+      {
+        "target": "assets/mth03-scene-0076.webp",
+        "box": [
+          7,
+          7,
+          308,
+          332
+        ],
+        "size": [
+          301,
+          325
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0077.webp",
+        "box": [
+          321,
+          7,
+          621,
+          332
+        ],
+        "size": [
+          300,
+          325
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0078.webp",
+        "box": [
+          633,
+          7,
+          934,
+          332
+        ],
+        "size": [
+          301,
+          325
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0079.webp",
+        "box": [
+          947,
+          7,
+          1248,
+          332
+        ],
+        "size": [
+          301,
+          325
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0080.webp",
+        "box": [
+          5,
+          344,
+          308,
+          624
+        ],
+        "size": [
+          303,
+          280
+        ]
+      }
+    ],
+    "native_size": [
+      1254,
+      1254
+    ],
+    "visual_review": "Source, detected gutter overlay and all crop tiles visually checked. No unused filler integrated."
+  }
+]

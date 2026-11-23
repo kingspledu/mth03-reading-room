@@ -1,0 +1,10 @@
+{
+  "chapter":2,
+  "references_read":["public/characters.html","public/assets/mth03-children-sheet-v1.png","public/assets/mth03-cat-sheet-v1.png","public/assets/mth03-procession-sheet-v1.png","source.txt Chapter 2","dense-scene-plan.json scenes 44-80"],
+  "batches":[{"start":44,"count":16},{"start":60,"count":16},{"start":76,"count":5}],
+  "identity":"Book 4 anchored face/style, Book 3 red long-sleeve Jack with round glasses, blonde bob lavender tee Annie. Same cat black coat yellow eyes broad plain gold collar.",
+  "location":"Now Egypt: same wooden treehouse on PALM tree, green oasis surrounded by sand. Golden stone pyramid in desert. No oak foliage after arrival. Bright hot daylight.",
+  "props":"Backpack on floor until Jack packs notebook and Egypt book scene 65, then worn on descent and across sand. Notebook and pencil introduced 57-58; Jack only writes. Annie empty-handed on ladder. Green silk bookmark in Egypt book.",
+  "presence":"Four horned oxen, wooden sled and gold coffin with mourners in procession. Four bodies and heads countable when shown. Procession fades at 66 and entirely absent 67 onward. Cat absent after disappearance until reveal at 77. No Hutepi ghost, white figure, living mummy or Morgan. Mummy discussion does not permit a mummy illustration.",
+  "crop":"Actual gutters detected separately per row; inspect overlay and all 37 resulting crops. Retain native resolution; no invented 4K claims. Unused cells not integrated or counted."
+}

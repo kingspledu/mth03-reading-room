@@ -1,11 +1,15 @@
 from pathlib import Path
+import argparse
 import json, sys, hashlib
 from PIL import Image,ImageOps,ImageDraw
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
 from grid_boundaries import crop_grid
 ROOT=Path(__file__).resolve().parent
 plan=json.loads((ROOT/'dense-scene-plan.json').read_text(encoding='utf-8'))
-for start,count in [(17,16),(33,11)]:
+parser=argparse.ArgumentParser()
+parser.add_argument('--chapter',type=int,default=1)
+args=parser.parse_args()
+for start,count in ([(44,16),(60,16),(76,5)] if args.chapter==2 else [(17,16),(33,11)]):
     selected=plan[start-1:start-1+count]
     files=[ROOT/'public/assets'/(s['id']+'.webp') for s in selected]
     audit=ROOT/'crop-review'/f'grid-{start:04}.json'
