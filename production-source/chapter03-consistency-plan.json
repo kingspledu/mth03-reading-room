@@ -1,0 +1,10 @@
+{
+ "chapter":3,
+ "references_read":["source.txt Chapter 3","public/characters.html","public/assets/mth03-children-sheet-v1.png","public/assets/mth03-procession-sheet-v1.png"],
+ "batches":[{"start":81,"count":16},{"start":97,"count":4}],
+ "style":"Book 4 anchored faces, same rounded ink pastel style. Jack red long sleeve, round thin glasses, blue jeans brown shoes tan backpack worn. Annie blonde bob lavender tee denim shorts red shoes.",
+ "space":"Bright sand at entrance transitions to cool dim stone corridor lit by FIXED wall torches. Inclined continuous stone floor then flat floor at 95; no staircase substituted. No palm/oak interior or modern lights.",
+ "props":"Jack takes Egypt book out at83, holds below WALL torch at92, under arm94-95, opens96-98, drops99. Green ribbon. Notebook remains packed, Annie empty handed, neither child carries torch.",
+ "presence":"Cat remains unseen throughout despite Jack wondering where it went. No actual mummy, Hutepi face, Morgan or funeral procession. White shape appears only99-100, face and identity concealed. Annie calling it a mummy is an interpretation, not permission for revealed mummy anatomy.",
+ "crop":"Detect row-specific gutters, inspect all20 crops and red overlay. No merged panels or blank filler counted. Preserve native size and ratio."
+}

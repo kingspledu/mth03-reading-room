@@ -1,0 +1,428 @@
+[
+  {
+    "source": "source_images/grid-0081.png",
+    "vertical_gutters": [],
+    "vertical_gutters_by_row": [
+      [
+        [
+          306,
+          313
+        ],
+        [
+          618,
+          624
+        ],
+        [
+          920,
+          926
+        ]
+      ],
+      [
+        [
+          306,
+          313
+        ],
+        [
+          618,
+          624
+        ],
+        [
+          920,
+          926
+        ]
+      ],
+      [
+        [
+          306,
+          313
+        ],
+        [
+          618,
+          624
+        ],
+        [
+          919,
+          925
+        ]
+      ],
+      [
+        [
+          306,
+          313
+        ],
+        [
+          618,
+          624
+        ],
+        [
+          919,
+          926
+        ]
+      ]
+    ],
+    "horizontal_gutters": [
+      [
+        313,
+        319
+      ],
+      [
+        628,
+        633
+      ],
+      [
+        942,
+        948
+      ]
+    ],
+    "tiles": [
+      {
+        "target": "assets/mth03-scene-0081.webp",
+        "box": [
+          3,
+          4,
+          304,
+          311
+        ],
+        "size": [
+          301,
+          307
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0082.webp",
+        "box": [
+          315,
+          4,
+          616,
+          311
+        ],
+        "size": [
+          301,
+          307
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0083.webp",
+        "box": [
+          626,
+          2,
+          918,
+          311
+        ],
+        "size": [
+          292,
+          309
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0084.webp",
+        "box": [
+          928,
+          3,
+          1244,
+          311
+        ],
+        "size": [
+          316,
+          308
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0085.webp",
+        "box": [
+          2,
+          321,
+          304,
+          626
+        ],
+        "size": [
+          302,
+          305
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0086.webp",
+        "box": [
+          315,
+          321,
+          616,
+          626
+        ],
+        "size": [
+          301,
+          305
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0087.webp",
+        "box": [
+          626,
+          321,
+          918,
+          626
+        ],
+        "size": [
+          292,
+          305
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0088.webp",
+        "box": [
+          928,
+          321,
+          1241,
+          626
+        ],
+        "size": [
+          313,
+          305
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0089.webp",
+        "box": [
+          3,
+          635,
+          304,
+          940
+        ],
+        "size": [
+          301,
+          305
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0090.webp",
+        "box": [
+          315,
+          635,
+          616,
+          940
+        ],
+        "size": [
+          301,
+          305
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0091.webp",
+        "box": [
+          626,
+          635,
+          917,
+          940
+        ],
+        "size": [
+          291,
+          305
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0092.webp",
+        "box": [
+          927,
+          635,
+          1242,
+          940
+        ],
+        "size": [
+          315,
+          305
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0093.webp",
+        "box": [
+          3,
+          950,
+          304,
+          1258
+        ],
+        "size": [
+          301,
+          308
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0094.webp",
+        "box": [
+          315,
+          950,
+          616,
+          1258
+        ],
+        "size": [
+          301,
+          308
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0095.webp",
+        "box": [
+          626,
+          950,
+          917,
+          1258
+        ],
+        "size": [
+          291,
+          308
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0096.webp",
+        "box": [
+          928,
+          950,
+          1241,
+          1258
+        ],
+        "size": [
+          313,
+          308
+        ]
+      }
+    ],
+    "native_size": [
+      1247,
+      1261
+    ],
+    "visual_review": "Source, overlay and all crops checked. No filler counted."
+  },
+  {
+    "source": "source_images/grid-0097.png",
+    "vertical_gutters": [],
+    "vertical_gutters_by_row": [
+      [
+        [
+          310,
+          321
+        ],
+        [
+          622,
+          634
+        ],
+        [
+          935,
+          947
+        ]
+      ],
+      [
+        [
+          310,
+          321
+        ],
+        [
+          623,
+          634
+        ],
+        [
+          936,
+          947
+        ]
+      ],
+      [
+        [
+          310,
+          321
+        ],
+        [
+          623,
+          635
+        ],
+        [
+          936,
+          947
+        ]
+      ],
+      [
+        [
+          310,
+          321
+        ],
+        [
+          623,
+          635
+        ],
+        [
+          936,
+          948
+        ]
+      ]
+    ],
+    "horizontal_gutters": [
+      [
+        413,
+        423
+      ],
+      [
+        717,
+        727
+      ],
+      [
+        977,
+        988
+      ]
+    ],
+    "tiles": [
+      {
+        "target": "assets/mth03-scene-0097.webp",
+        "box": [
+          6,
+          6,
+          308,
+          411
+        ],
+        "size": [
+          302,
+          405
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0098.webp",
+        "box": [
+          323,
+          6,
+          620,
+          411
+        ],
+        "size": [
+          297,
+          405
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0099.webp",
+        "box": [
+          636,
+          6,
+          933,
+          411
+        ],
+        "size": [
+          297,
+          405
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0100.webp",
+        "box": [
+          949,
+          6,
+          1249,
+          411
+        ],
+        "size": [
+          300,
+          405
+        ]
+      }
+    ],
+    "native_size": [
+      1254,
+      1254
+    ],
+    "visual_review": "Source, overlay and all crops checked. No filler counted."
+  }
+]

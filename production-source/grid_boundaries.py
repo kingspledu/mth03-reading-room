@@ -8,6 +8,17 @@ def axis_bands(array, axis, count=4):
     neutral=(array.min(axis=2)>205)&((array.max(axis=2).astype(float)-array.min(axis=2))<35)
     scores=neutral.mean(axis=axis)
     length=len(scores)
+    # Generated rows can have unequal heights. Prefer actual uninterrupted
+    # white gutters across the full axis over assumptions about quarter marks.
+    runs=[]
+    begin=None
+    for i,value in enumerate(scores):
+        if value >= .98 and begin is None: begin=i
+        if value < .98 and begin is not None:
+            if begin>2 and i<length-2 and i-begin>=2: runs.append((begin,i))
+            begin=None
+    if len(runs)==count-1:
+        return runs
     bands=[]
     for index in range(1,count):
         lo=int(length*(index/count-.065))

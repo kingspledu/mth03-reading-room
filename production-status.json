@@ -5,19 +5,15 @@
   "parts": 13,
   "paragraphs": 520,
   "planned_scene_candidates": 325,
-  "integrated_scenes": 80,
-  "remaining_scene_candidates": 245,
+  "integrated_scenes": 100,
+  "remaining_scene_candidates": 225,
   "public_url": "https://kingspledu.github.io/mth03-reading-room/",
   "status": "in_progress",
   "browser_qa": "not yet performed",
-  "remaining_chapter_aligned_batches": 19,
+  "remaining_chapter_aligned_batches": 17,
   "batch_size_max": 16,
   "per_session_batches": "2–3, sequential generation and visual review",
   "remaining_by_chapter": {
-    "03": {
-      "scenes": 20,
-      "batches": 2
-    },
     "04": {
       "scenes": 26,
       "batches": 2
