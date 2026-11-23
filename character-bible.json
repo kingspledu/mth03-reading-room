@@ -1,6 +1,69 @@
 {
-  "art_style": "Modern Korean Webtoon Slice-of-Life Style",
-  "models": [],
-  "state_timeline": [],
-  "reference_images": []
+  "book": 3,
+  "title": "Mummies in the Morning",
+  "common_reference": {
+    "version": "mth04-visual-v1",
+    "reference": "assets/series-jack-annie-reference.png",
+    "priority": "Source presence and wardrobe state override the reference default pose and gear.",
+    "characters": [
+      {
+        "id": "MTH-JACK",
+        "name": "Jack",
+        "source_facts": "8세 반. Annie의 오빠. 안경을 쓰며 책과 관찰을 좋아한다.",
+        "design": "4권 시트와 같은 갈색 머리·얼굴, 얇은 원형 안경, 빨간 긴팔·청바지. 기본 갈색 운동화. Annie보다 조금 크다."
+      },
+      {
+        "id": "MTH-ANNIE",
+        "name": "Annie",
+        "source_facts": "7세. Jack의 여동생. 적극적으로 탐험한다.",
+        "design": "4권 시트와 같은 금발 단발·얼굴, 보라색 티셔츠·청반바지·기본 빨간 운동화. Jack보다 작다."
+      }
+    ]
+  },
+  "characters": [
+    {
+      "id": "MTH-JACK",
+      "name": "Jack",
+      "source_facts": "8세 반. Annie의 오빠. 안경을 쓰며 책과 관찰을 좋아한다.",
+      "design": "4권 시트와 같은 갈색 머리·얼굴, 얇은 원형 안경, 빨간 긴팔·청바지. 기본 갈색 운동화. Annie보다 조금 크다."
+    },
+    {
+      "id": "MTH-ANNIE",
+      "name": "Annie",
+      "source_facts": "7세. Jack의 여동생. 적극적으로 탐험한다.",
+      "design": "4권 시트와 같은 금발 단발·얼굴, 보라색 티셔츠·청반바지·기본 빨간 운동화. Jack보다 작다."
+    },
+    {
+      "id": "MTH03-CAT",
+      "name": "Black Cat",
+      "source_facts": "검은 털·밝은 노란 눈·넓은 금목걸이. 책 속 그림·실제 등장·화면 밖 울음·퇴장을 구분한다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH03-HUTEPI",
+      "name": "Queen Hutepi",
+      "source_facts": "유령은 검은 머리·꽃·주름 많은 흰 드레스·금장신구·공기 같은 몸. 미라는 같은 인물의 별도 상태이다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH03-PROCESSION",
+      "name": "Funeral Procession",
+      "source_facts": "가족·하인·조문객과 금색 관. 썰매를 끄는 뿔소 네 마리를 확인한다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH03-WHITE-FIGURE",
+      "name": "White Figure",
+      "source_facts": "정체와 얼굴이 밝혀지지 않은 흰 형체. 추측을 확정된 정체로 그리지 않는다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH-MOM",
+      "name": "Mom",
+      "source_facts": "목소리만 들리는 순간과 집의 부엌 장면을 구분한다. 세부 외형은 공통 제작 선택으로 고정한다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    }
+  ],
+  "status": "text_rules_ready_book_specific_visual_sheets_pending",
+  "presence_rule": "캐스트 목록·참조 시트는 장면 출연 허가가 아니다. 원문상 현재 인물만 표시한다."
 }

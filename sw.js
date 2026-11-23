@@ -13,3 +13,5 @@ self.addEventListener('fetch',event=>{
  }
  event.respondWith(fetch(request).then(async response=>{if(response.ok){const cache=await caches.open(CACHE);await cache.put(request,response.clone())}return response}).catch(async()=>await caches.match(request)||Response.error()));
 });
+
+// Character reference revision 49f8bf1162ec
