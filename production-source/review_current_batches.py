@@ -9,7 +9,7 @@ plan=json.loads((ROOT/'dense-scene-plan.json').read_text(encoding='utf-8'))
 parser=argparse.ArgumentParser()
 parser.add_argument('--chapter',type=int,default=1)
 args=parser.parse_args()
-for start,count in ({1:[(17,16),(33,11)],2:[(44,16),(60,16),(76,5)],3:[(81,16),(97,4)],4:[(101,16),(117,10)]}[args.chapter]):
+for start,count in ({1:[(17,16),(33,11)],2:[(44,16),(60,16),(76,5)],3:[(81,16),(97,4)],4:[(101,16),(117,10)],5:[(127,16),(143,7)]}[args.chapter]):
     selected=plan[start-1:start-1+count]
     files=[ROOT/'public/assets'/(s['id']+'.webp') for s in selected]
     audit=ROOT/'crop-review'/f'grid-{start:04}.json'

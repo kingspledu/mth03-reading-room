@@ -1,0 +1,467 @@
+[
+  {
+    "source": "source_images/grid-0127.png",
+    "vertical_gutters": [],
+    "vertical_gutters_by_row": [
+      [
+        [
+          382,
+          390
+        ],
+        [
+          764,
+          773
+        ],
+        [
+          1146,
+          1155
+        ]
+      ],
+      [
+        [
+          383,
+          391
+        ],
+        [
+          764,
+          773
+        ],
+        [
+          1147,
+          1155
+        ]
+      ],
+      [
+        [
+          383,
+          392
+        ],
+        [
+          764,
+          773
+        ],
+        [
+          1146,
+          1149
+        ]
+      ],
+      [
+        [
+          382,
+          391
+        ],
+        [
+          764,
+          770
+        ],
+        [
+          1145,
+          1154
+        ]
+      ]
+    ],
+    "horizontal_gutters": [
+      [
+        256,
+        262
+      ],
+      [
+        509,
+        515
+      ],
+      [
+        756,
+        764
+      ]
+    ],
+    "tiles": [
+      {
+        "target": "assets/mth03-scene-0127.webp",
+        "box": [
+          8,
+          8,
+          380,
+          254
+        ],
+        "size": [
+          372,
+          246
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0128.webp",
+        "box": [
+          392,
+          8,
+          762,
+          254
+        ],
+        "size": [
+          370,
+          246
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0129.webp",
+        "box": [
+          775,
+          8,
+          1144,
+          254
+        ],
+        "size": [
+          369,
+          246
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0130.webp",
+        "box": [
+          1157,
+          8,
+          1529,
+          254
+        ],
+        "size": [
+          372,
+          246
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0131.webp",
+        "box": [
+          9,
+          264,
+          381,
+          507
+        ],
+        "size": [
+          372,
+          243
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0132.webp",
+        "box": [
+          393,
+          264,
+          762,
+          507
+        ],
+        "size": [
+          369,
+          243
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0133.webp",
+        "box": [
+          775,
+          264,
+          1145,
+          507
+        ],
+        "size": [
+          370,
+          243
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0134.webp",
+        "box": [
+          1157,
+          264,
+          1528,
+          507
+        ],
+        "size": [
+          371,
+          243
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0135.webp",
+        "box": [
+          9,
+          517,
+          381,
+          754
+        ],
+        "size": [
+          372,
+          237
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0136.webp",
+        "box": [
+          394,
+          517,
+          762,
+          754
+        ],
+        "size": [
+          368,
+          237
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0137.webp",
+        "box": [
+          775,
+          517,
+          1144,
+          754
+        ],
+        "size": [
+          369,
+          237
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0138.webp",
+        "box": [
+          1151,
+          517,
+          1528,
+          754
+        ],
+        "size": [
+          377,
+          237
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0139.webp",
+        "box": [
+          9,
+          766,
+          380,
+          1016
+        ],
+        "size": [
+          371,
+          250
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0140.webp",
+        "box": [
+          393,
+          766,
+          762,
+          1016
+        ],
+        "size": [
+          369,
+          250
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0141.webp",
+        "box": [
+          772,
+          766,
+          1143,
+          1016
+        ],
+        "size": [
+          371,
+          250
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0142.webp",
+        "box": [
+          1156,
+          766,
+          1528,
+          1018
+        ],
+        "size": [
+          372,
+          252
+        ]
+      }
+    ],
+    "native_size": [
+      1536,
+      1024
+    ],
+    "visual_review": "Source, actual boundary overlay and every crop checked. No unused cells counted."
+  },
+  {
+    "source": "source_images/grid-0143.png",
+    "vertical_gutters": [],
+    "vertical_gutters_by_row": [
+      [
+        [
+          312,
+          319
+        ],
+        [
+          627,
+          634
+        ],
+        [
+          942,
+          949
+        ]
+      ],
+      [
+        [
+          312,
+          320
+        ],
+        [
+          627,
+          634
+        ],
+        [
+          943,
+          950
+        ]
+      ],
+      [
+        [
+          313,
+          320
+        ],
+        [
+          628,
+          635
+        ],
+        [
+          944,
+          951
+        ]
+      ],
+      [
+        [
+          313,
+          320
+        ],
+        [
+          629,
+          635
+        ],
+        [
+          944,
+          951
+        ]
+      ]
+    ],
+    "horizontal_gutters": [
+      [
+        312,
+        320
+      ],
+      [
+        621,
+        628
+      ],
+      [
+        930,
+        937
+      ]
+    ],
+    "tiles": [
+      {
+        "target": "assets/mth03-scene-0143.webp",
+        "box": [
+          2,
+          4,
+          310,
+          310
+        ],
+        "size": [
+          308,
+          306
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0144.webp",
+        "box": [
+          321,
+          3,
+          625,
+          310
+        ],
+        "size": [
+          304,
+          307
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0145.webp",
+        "box": [
+          636,
+          3,
+          940,
+          310
+        ],
+        "size": [
+          304,
+          307
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0146.webp",
+        "box": [
+          951,
+          3,
+          1258,
+          310
+        ],
+        "size": [
+          307,
+          307
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0147.webp",
+        "box": [
+          2,
+          322,
+          310,
+          619
+        ],
+        "size": [
+          308,
+          297
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0148.webp",
+        "box": [
+          322,
+          322,
+          625,
+          619
+        ],
+        "size": [
+          303,
+          297
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0149.webp",
+        "box": [
+          636,
+          322,
+          941,
+          619
+        ],
+        "size": [
+          305,
+          297
+        ]
+      }
+    ],
+    "native_size": [
+      1261,
+      1247
+    ],
+    "visual_review": "Source, actual boundary overlay and every crop checked. No unused cells counted."
+  }
+]
