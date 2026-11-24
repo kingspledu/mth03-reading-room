@@ -1,0 +1,537 @@
+[
+  {
+    "source": "source_images/grid-0297.png",
+    "vertical_gutters": [],
+    "vertical_gutters_by_row": [
+      [
+        [
+          309,
+          321
+        ],
+        [
+          621,
+          633
+        ],
+        [
+          935,
+          946
+        ]
+      ],
+      [
+        [
+          310,
+          321
+        ],
+        [
+          622,
+          634
+        ],
+        [
+          935,
+          946
+        ]
+      ],
+      [
+        [
+          310,
+          322
+        ],
+        [
+          622,
+          634
+        ],
+        [
+          935,
+          947
+        ]
+      ],
+      [
+        [
+          310,
+          322
+        ],
+        [
+          622,
+          634
+        ],
+        [
+          935,
+          947
+        ]
+      ]
+    ],
+    "horizontal_gutters": [
+      [
+        309,
+        319
+      ],
+      [
+        620,
+        631
+      ],
+      [
+        934,
+        945
+      ]
+    ],
+    "tiles": [
+      {
+        "target": "assets/mth03-scene-0297.webp",
+        "box": [
+          9,
+          9,
+          307,
+          307
+        ],
+        "size": [
+          298,
+          298
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0298.webp",
+        "box": [
+          323,
+          9,
+          619,
+          307
+        ],
+        "size": [
+          296,
+          298
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0299.webp",
+        "box": [
+          635,
+          9,
+          933,
+          307
+        ],
+        "size": [
+          298,
+          298
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0300.webp",
+        "box": [
+          948,
+          9,
+          1246,
+          307
+        ],
+        "size": [
+          298,
+          298
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0301.webp",
+        "box": [
+          9,
+          321,
+          308,
+          618
+        ],
+        "size": [
+          299,
+          297
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0302.webp",
+        "box": [
+          323,
+          321,
+          620,
+          618
+        ],
+        "size": [
+          297,
+          297
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0303.webp",
+        "box": [
+          636,
+          321,
+          933,
+          618
+        ],
+        "size": [
+          297,
+          297
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0304.webp",
+        "box": [
+          948,
+          321,
+          1246,
+          618
+        ],
+        "size": [
+          298,
+          297
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0305.webp",
+        "box": [
+          9,
+          633,
+          308,
+          932
+        ],
+        "size": [
+          299,
+          299
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0306.webp",
+        "box": [
+          324,
+          633,
+          620,
+          932
+        ],
+        "size": [
+          296,
+          299
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0307.webp",
+        "box": [
+          636,
+          633,
+          933,
+          932
+        ],
+        "size": [
+          297,
+          299
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0308.webp",
+        "box": [
+          949,
+          633,
+          1246,
+          932
+        ],
+        "size": [
+          297,
+          299
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0309.webp",
+        "box": [
+          10,
+          947,
+          308,
+          1247
+        ],
+        "size": [
+          298,
+          300
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0310.webp",
+        "box": [
+          324,
+          947,
+          620,
+          1247
+        ],
+        "size": [
+          296,
+          300
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0311.webp",
+        "box": [
+          636,
+          947,
+          933,
+          1247
+        ],
+        "size": [
+          297,
+          300
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0312.webp",
+        "box": [
+          949,
+          947,
+          1246,
+          1247
+        ],
+        "size": [
+          297,
+          300
+        ]
+      }
+    ],
+    "visual_review": "All narrative panels and red crop-boundary overlay checked; no neighboring panels or unused cells included."
+  },
+  {
+    "source": "source_images/grid-0313.png",
+    "vertical_gutters": [],
+    "vertical_gutters_by_row": [
+      [
+        [
+          382,
+          392
+        ],
+        [
+          764,
+          774
+        ],
+        [
+          1144,
+          1154
+        ]
+      ],
+      [
+        [
+          382,
+          392
+        ],
+        [
+          764,
+          774
+        ],
+        [
+          1144,
+          1155
+        ]
+      ],
+      [
+        [
+          383,
+          393
+        ],
+        [
+          764,
+          775
+        ],
+        [
+          1143,
+          1155
+        ]
+      ],
+      [
+        [
+          383,
+          393
+        ],
+        [
+          764,
+          775
+        ],
+        [
+          1144,
+          1154
+        ]
+      ]
+    ],
+    "horizontal_gutters": [
+      [
+        256,
+        264
+      ],
+      [
+        508,
+        516
+      ],
+      [
+        760,
+        768
+      ]
+    ],
+    "tiles": [
+      {
+        "target": "assets/mth03-scene-0313.webp",
+        "box": [
+          9,
+          9,
+          380,
+          254
+        ],
+        "size": [
+          371,
+          245
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0314.webp",
+        "box": [
+          394,
+          7,
+          762,
+          254
+        ],
+        "size": [
+          368,
+          247
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0315.webp",
+        "box": [
+          776,
+          7,
+          1142,
+          254
+        ],
+        "size": [
+          366,
+          247
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0316.webp",
+        "box": [
+          1156,
+          7,
+          1527,
+          254
+        ],
+        "size": [
+          371,
+          247
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0317.webp",
+        "box": [
+          9,
+          266,
+          380,
+          506
+        ],
+        "size": [
+          371,
+          240
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0318.webp",
+        "box": [
+          394,
+          266,
+          762,
+          506
+        ],
+        "size": [
+          368,
+          240
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0319.webp",
+        "box": [
+          776,
+          266,
+          1142,
+          506
+        ],
+        "size": [
+          366,
+          240
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0320.webp",
+        "box": [
+          1157,
+          266,
+          1527,
+          506
+        ],
+        "size": [
+          370,
+          240
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0321.webp",
+        "box": [
+          8,
+          518,
+          381,
+          758
+        ],
+        "size": [
+          373,
+          240
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0322.webp",
+        "box": [
+          395,
+          518,
+          762,
+          758
+        ],
+        "size": [
+          367,
+          240
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0323.webp",
+        "box": [
+          777,
+          518,
+          1141,
+          758
+        ],
+        "size": [
+          364,
+          240
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0324.webp",
+        "box": [
+          1157,
+          518,
+          1526,
+          758
+        ],
+        "size": [
+          369,
+          240
+        ]
+      },
+      {
+        "target": "assets/mth03-scene-0325.webp",
+        "box": [
+          8,
+          770,
+          381,
+          1013
+        ],
+        "size": [
+          373,
+          243
+        ]
+      }
+    ],
+    "visual_review": "All narrative panels and red crop-boundary overlay checked; no neighboring panels or unused cells included."
+  }
+]
