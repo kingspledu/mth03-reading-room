@@ -1,0 +1,286 @@
+{
+  "source": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\source_images\\grid-0270.png",
+  "vertical_gutters": [],
+  "vertical_gutters_by_row": [
+    [
+      [
+        311,
+        320
+      ],
+      [
+        623,
+        632
+      ],
+      [
+        935,
+        945
+      ]
+    ],
+    [
+      [
+        311,
+        321
+      ],
+      [
+        623,
+        632
+      ],
+      [
+        935,
+        945
+      ]
+    ],
+    [
+      [
+        311,
+        321
+      ],
+      [
+        623,
+        633
+      ],
+      [
+        935,
+        945
+      ]
+    ],
+    [
+      [
+        311,
+        321
+      ],
+      [
+        623,
+        633
+      ],
+      [
+        933,
+        944
+      ]
+    ]
+  ],
+  "horizontal_gutters": [
+    [
+      311,
+      319
+    ],
+    [
+      621,
+      630
+    ],
+    [
+      934,
+      944
+    ]
+  ],
+  "tiles": [
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0270.webp",
+      "box": [
+        9,
+        6,
+        309,
+        309
+      ],
+      "size": [
+        300,
+        303
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0271.webp",
+      "box": [
+        322,
+        6,
+        621,
+        309
+      ],
+      "size": [
+        299,
+        303
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0272.webp",
+      "box": [
+        634,
+        6,
+        933,
+        309
+      ],
+      "size": [
+        299,
+        303
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0273.webp",
+      "box": [
+        947,
+        6,
+        1246,
+        309
+      ],
+      "size": [
+        299,
+        303
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0274.webp",
+      "box": [
+        9,
+        321,
+        309,
+        619
+      ],
+      "size": [
+        300,
+        298
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0275.webp",
+      "box": [
+        323,
+        321,
+        621,
+        619
+      ],
+      "size": [
+        298,
+        298
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0276.webp",
+      "box": [
+        634,
+        321,
+        933,
+        619
+      ],
+      "size": [
+        299,
+        298
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0277.webp",
+      "box": [
+        947,
+        321,
+        1246,
+        619
+      ],
+      "size": [
+        299,
+        298
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0278.webp",
+      "box": [
+        9,
+        632,
+        309,
+        932
+      ],
+      "size": [
+        300,
+        300
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0279.webp",
+      "box": [
+        323,
+        632,
+        621,
+        932
+      ],
+      "size": [
+        298,
+        300
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0280.webp",
+      "box": [
+        635,
+        632,
+        933,
+        932
+      ],
+      "size": [
+        298,
+        300
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0281.webp",
+      "box": [
+        947,
+        632,
+        1246,
+        932
+      ],
+      "size": [
+        299,
+        300
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0282.webp",
+      "box": [
+        9,
+        946,
+        309,
+        1246
+      ],
+      "size": [
+        300,
+        300
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0283.webp",
+      "box": [
+        323,
+        946,
+        621,
+        1246
+      ],
+      "size": [
+        298,
+        300
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0284.webp",
+      "box": [
+        635,
+        946,
+        931,
+        1246
+      ],
+      "size": [
+        296,
+        300
+      ]
+    },
+    {
+      "target": "C:\\Users\\\uace0\ubcf4\ubbfc\\Downloads\\codex\\listening test\\mth03-reading-room\\public\\assets\\mth03-scene-0285.webp",
+      "box": [
+        946,
+        946,
+        1246,
+        1246
+      ],
+      "size": [
+        300,
+        300
+      ]
+    }
+  ]
+}
