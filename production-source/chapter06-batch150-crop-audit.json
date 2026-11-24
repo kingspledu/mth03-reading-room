@@ -1,0 +1,287 @@
+{
+  "source": "source_images/grid-0150.png",
+  "vertical_gutters": [],
+  "vertical_gutters_by_row": [
+    [
+      [
+        309,
+        318
+      ],
+      [
+        622,
+        632
+      ],
+      [
+        936,
+        946
+      ]
+    ],
+    [
+      [
+        309,
+        318
+      ],
+      [
+        623,
+        632
+      ],
+      [
+        936,
+        946
+      ]
+    ],
+    [
+      [
+        309,
+        318
+      ],
+      [
+        622,
+        632
+      ],
+      [
+        936,
+        946
+      ]
+    ],
+    [
+      [
+        309,
+        318
+      ],
+      [
+        622,
+        632
+      ],
+      [
+        936,
+        946
+      ]
+    ]
+  ],
+  "horizontal_gutters": [
+    [
+      310,
+      320
+    ],
+    [
+      622,
+      633
+    ],
+    [
+      934,
+      945
+    ]
+  ],
+  "tiles": [
+    {
+      "target": "assets/mth03-scene-0150.webp",
+      "box": [
+        4,
+        6,
+        307,
+        308
+      ],
+      "size": [
+        303,
+        302
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0151.webp",
+      "box": [
+        320,
+        6,
+        620,
+        308
+      ],
+      "size": [
+        300,
+        302
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0152.webp",
+      "box": [
+        634,
+        6,
+        934,
+        308
+      ],
+      "size": [
+        300,
+        302
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0153.webp",
+      "box": [
+        948,
+        6,
+        1252,
+        308
+      ],
+      "size": [
+        304,
+        302
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0154.webp",
+      "box": [
+        4,
+        322,
+        307,
+        620
+      ],
+      "size": [
+        303,
+        298
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0155.webp",
+      "box": [
+        320,
+        322,
+        621,
+        620
+      ],
+      "size": [
+        301,
+        298
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0156.webp",
+      "box": [
+        634,
+        322,
+        934,
+        620
+      ],
+      "size": [
+        300,
+        298
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0157.webp",
+      "box": [
+        948,
+        322,
+        1252,
+        620
+      ],
+      "size": [
+        304,
+        298
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0158.webp",
+      "box": [
+        4,
+        635,
+        307,
+        932
+      ],
+      "size": [
+        303,
+        297
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0159.webp",
+      "box": [
+        320,
+        635,
+        620,
+        932
+      ],
+      "size": [
+        300,
+        297
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0160.webp",
+      "box": [
+        634,
+        635,
+        934,
+        932
+      ],
+      "size": [
+        300,
+        297
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0161.webp",
+      "box": [
+        948,
+        635,
+        1252,
+        932
+      ],
+      "size": [
+        304,
+        297
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0162.webp",
+      "box": [
+        4,
+        947,
+        307,
+        1247
+      ],
+      "size": [
+        303,
+        300
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0163.webp",
+      "box": [
+        320,
+        947,
+        620,
+        1247
+      ],
+      "size": [
+        300,
+        300
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0164.webp",
+      "box": [
+        634,
+        947,
+        934,
+        1247
+      ],
+      "size": [
+        300,
+        300
+      ]
+    },
+    {
+      "target": "assets/mth03-scene-0165.webp",
+      "box": [
+        948,
+        947,
+        1252,
+        1247
+      ],
+      "size": [
+        304,
+        300
+      ]
+    }
+  ],
+  "review": "All16 crops and overlay visually reviewed"
+}
